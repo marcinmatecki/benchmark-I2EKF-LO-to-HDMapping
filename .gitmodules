@@ -1,6 +1,6 @@
 [submodule "src/I2EKF-LO"]
 	path = src/I2EKF-LO
-	url = https://github.com/YWL0720/I2EKF-LO
+	url = https://github.com/MapsHD/I2EKF-LO.git 
 [submodule "src/i2ekf-lo-to-hdmapping/src/3rdparty/LASzip"]
 	path = src/i2ekf-lo-to-hdmapping/src/3rdparty/LASzip
 	url = https://github.com/LASzip/LASzip.git
