@@ -1,5 +1,9 @@
 # i2ekf-lo-converter
 
+## Example Dataset: 
+
+Download the dataset from [Bunker DVI Dataset](https://charleshamesse.github.io/bunker-dvi-dataset/)  
+
 ## Intended use 
 
 This small toolset allows to integrate SLAM solution provided by [I2EKF-LO](https://github.com/YWL0720/I2EKF-LO.git) with [HDMapping](https://github.com/MapsHD/HDMapping).
@@ -61,12 +65,6 @@ cd /test_ws/
 source ./install/setup.sh # adjust to used shell
 rosrun i2ekf-lo-to-hdmapping listener <recorded_bag> <output_dir>
 ```
-
-## Example:
-
-Download the dataset from [NTU-VIRAL](https://ntu-aris.github.io/ntu_viral_dataset/)
-For this example, download eee_03.
-
 
 ## Modify
 
