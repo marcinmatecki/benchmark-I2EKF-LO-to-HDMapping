@@ -1,4 +1,8 @@
-# i2ekf-lo-converter
+# [I2EKF-LO](https://github.com/YWL0720/I2EKF-LO.git) converter to [HDMapping](https://github.com/MapsHD/HDMapping)
+
+## Hint
+
+Please change branch to [Bunker-DVI-Dataset-reg-1](https://github.com/MapsHD/benchmark-I2EKF-LO-to-HDMapping/tree/Bunker-DVI-Dataset-reg-1) for quick experiment.  
 
 ## Example Dataset: 
 
